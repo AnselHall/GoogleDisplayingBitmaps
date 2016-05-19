@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Download\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_fragment.xml",
+        "source": "E:\\Download\\DisplayingBitmaps\\Application\\src\\main\\res\\layout\\image_grid_fragment.xml"
+    },
+    {
+        "merged": "E:\\Download\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_fragment.xml",
+        "source": "E:\\Download\\DisplayingBitmaps\\Application\\src\\main\\res\\layout\\image_detail_fragment.xml"
+    },
+    {
+        "merged": "E:\\Download\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_pager.xml",
+        "source": "E:\\Download\\DisplayingBitmaps\\Application\\src\\main\\res\\layout\\image_detail_pager.xml"
+    }
+]
